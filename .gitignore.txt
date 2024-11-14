@@ -2,3 +2,7 @@
 .idea/
 *.iml
 .idea.*
+
+# .NET derleme dosyaları
+bin/
+obj/
