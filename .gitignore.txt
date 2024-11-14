@@ -1,0 +1,4 @@
+# Rider ve IDEA IDE dosyaları
+.idea/
+*.iml
+.idea.*
