@@ -9,6 +9,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddOptionsExt();
 builder.Services.AddDatabaseServices();
 
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
