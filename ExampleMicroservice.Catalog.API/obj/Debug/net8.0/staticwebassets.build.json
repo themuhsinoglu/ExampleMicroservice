@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PAjpiVG6m8dqatInBNiBG+dx1P7zcv5UaB8XklLXZaM=",
+  "Source": "ExampleMicroservice.Catalog.API",
+  "BasePath": "_content/ExampleMicroservice.Catalog.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
