@@ -1,8 +1,0 @@
-# Rider ve IDEA IDE dosyaları
-.idea/
-*.iml
-.idea.*
-
-# .NET derleme dosyaları
-bin/
-obj/
