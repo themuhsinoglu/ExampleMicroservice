@@ -1,8 +1,0 @@
-# Rider ve IntelliJ IDEA
-.idea/
-
-# Build Klasörleri
-bin/
-obj/
-debug/
-release/
