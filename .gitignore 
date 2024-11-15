@@ -1,10 +1,8 @@
-# Rider ve IDEA IDE dosyaları
+# Rider ve IntelliJ IDEA
 .idea/
-*.iml
-.idea.*
 
-# .NET derleme dosyaları
+# Build Klasörleri
 bin/
 obj/
-LICENSE
-README.md
+debug/
+release/
